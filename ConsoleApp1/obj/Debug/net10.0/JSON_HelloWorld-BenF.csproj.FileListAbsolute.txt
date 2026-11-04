@@ -1,0 +1,15 @@
+C:\Users\w0527459\source\repos\JSON_HelloWorld-BenF\ConsoleApp1\bin\Debug\net10.0\JSON_HelloWorld-BenF.exe
+C:\Users\w0527459\source\repos\JSON_HelloWorld-BenF\ConsoleApp1\bin\Debug\net10.0\JSON_HelloWorld-BenF.deps.json
+C:\Users\w0527459\source\repos\JSON_HelloWorld-BenF\ConsoleApp1\bin\Debug\net10.0\JSON_HelloWorld-BenF.runtimeconfig.json
+C:\Users\w0527459\source\repos\JSON_HelloWorld-BenF\ConsoleApp1\bin\Debug\net10.0\JSON_HelloWorld-BenF.dll
+C:\Users\w0527459\source\repos\JSON_HelloWorld-BenF\ConsoleApp1\bin\Debug\net10.0\JSON_HelloWorld-BenF.pdb
+C:\Users\w0527459\source\repos\JSON_HelloWorld-BenF\ConsoleApp1\obj\Debug\net10.0\JSON_HelloWorld-BenF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\w0527459\source\repos\JSON_HelloWorld-BenF\ConsoleApp1\obj\Debug\net10.0\JSON_HelloWorld-BenF.AssemblyInfoInputs.cache
+C:\Users\w0527459\source\repos\JSON_HelloWorld-BenF\ConsoleApp1\obj\Debug\net10.0\JSON_HelloWorld-BenF.AssemblyInfo.cs
+C:\Users\w0527459\source\repos\JSON_HelloWorld-BenF\ConsoleApp1\obj\Debug\net10.0\JSON_HelloWorld-BenF.csproj.CoreCompileInputs.cache
+C:\Users\w0527459\source\repos\JSON_HelloWorld-BenF\ConsoleApp1\obj\Debug\net10.0\JSON_HelloWorld-BenF.dll
+C:\Users\w0527459\source\repos\JSON_HelloWorld-BenF\ConsoleApp1\obj\Debug\net10.0\refint\JSON_HelloWorld-BenF.dll
+C:\Users\w0527459\source\repos\JSON_HelloWorld-BenF\ConsoleApp1\obj\Debug\net10.0\JSON_HelloWorld-BenF.pdb
+C:\Users\w0527459\source\repos\JSON_HelloWorld-BenF\ConsoleApp1\obj\Debug\net10.0\JSON_HelloWorld-BenF.genruntimeconfig.cache
+C:\Users\w0527459\source\repos\JSON_HelloWorld-BenF\ConsoleApp1\obj\Debug\net10.0\ref\JSON_HelloWorld-BenF.dll
+C:\Users\w0527459\source\repos\JSON_HelloWorld-BenF\ConsoleApp1\obj\Debug\net10.0\JSON_Hel.4647AE51.Up2Date
